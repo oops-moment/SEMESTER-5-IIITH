@@ -1,0 +1,1 @@
+Hardware Resource Management Project done as part of data foundation system course
